@@ -11,3 +11,10 @@ Rape
 Kidnapping and Abduction
 Dowry Deaths
 Other crimes against women
+# Repository Contents
+Raw Data:
+The original dataset as downloaded from data.gov.in.
+Processed Data:
+Cleaned and formatted data for analysis.
+Visualizations:
+Charts and graphs showcasing key insights.
